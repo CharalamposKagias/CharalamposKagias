@@ -20,13 +20,15 @@ A Windows-focused forensic analysis and data recovery project built with Python 
 ### Kagias OSINT — In development
 A Python-based OSINT desktop tool for Windows, focused on working with publicly available information.
 
-## Technical skills
+### Technical Skills
 
-- Python, PySide6, Tkinter
-- HTML and Flutter
-- Windows troubleshooting and IT support
-- Git and GitHub
-- Microsoft Excel and operational data management
+- **Python:** Desktop application development
+- **Tkinter & PySide6:** Desktop GUI development
+- **HTML:** Web development fundamentals
+- **C++:** Basic programming knowledge
+- **Git & GitHub:** Version control
+- **Windows:** Troubleshooting and IT support
+- **Microsoft Excel:** Inventory and operational data management
 
 ## Contact
 
