@@ -23,9 +23,11 @@ A Python-based OSINT desktop tool for Windows, focused on working with publicly 
 ### Technical Skills
 
 - **Python:** Desktop application development
-- **Tkinter & PySide6:** Desktop GUI development
-- **HTML:** Web development fundamentals
+- **Java:** Programming fundamentals
 - **C++:** Basic programming knowledge
+- **SQL:** Database queries and data management
+- **HTML:** Web development fundamentals
+- **Tkinter & PySide6:** Desktop GUI development
 - **Git & GitHub:** Version control
 - **Windows:** Troubleshooting and IT support
 - **Microsoft Excel:** Inventory and operational data management
